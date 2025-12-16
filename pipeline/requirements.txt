@@ -1,0 +1,4 @@
+requests
+PyYAML
+psycopg2-binary
+pandas
